@@ -19,6 +19,7 @@
     "@modules/maps": "file:./modules/maps/",
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/photo-editing": "file:./modules/photo-editing/",
+    "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/terms-and-conditions-webview": "file:./modules/terms-and-conditions-webview/",
     "@modules/user-profile": "file:./modules/user-profile/",
